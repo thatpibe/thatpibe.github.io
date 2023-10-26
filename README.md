@@ -1,0 +1,1 @@
+Polling system! Upload an image and your username to enter the contest.
